@@ -1,2 +1,2 @@
 # CSCI183_ML_BIAS
-A construction and analysis of various machine learning models and incorporate bias into their feature list. 
+An analysis of the impact of various features, algorithms, and parameters on bias within the prediction across multiple machine learning algorithms. 
